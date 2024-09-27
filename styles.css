@@ -63,27 +63,27 @@ nav ul li a:hover {
 
 @keyframes changeImage {
   0% {
-    background-image: url("/SriLankaImg/srilankaeleph.jpg");
+    background-image: url("SriLankaImg/srilankaeleph.jpg");
     background-size: cover;
   }
   20% {
-    background-image: url("/SriLankaImg/srilanka1.jpg");
+    background-image: url("SriLankaImg/srilanka1.jpg");
     background-size: cover;
   }
   40% {
-    background-image: url("/SriLankaImg/srilanka5.jpg");
+    background-image: url("SriLankaImg/srilanka5.jpg");
     background-size: cover;
   }
   60% {
-    background-image: url("/SriLankaImg/srilanka4.webp");
+    background-image: url("SriLankaImg/srilanka4.webp");
     background-size: cover;
   }
   80% {
-    background-image: url("/SriLankaImg/srilanka2.jpg");
+    background-image: url("SriLankaImg/srilanka2.jpg");
     background-size: cover;
   }
   100% {
-    background-image: url("/SriLankaImg/srilankaeleph.jpg"); /* Looping back to the first image */
+    background-image: url("SriLankaImg/srilankaeleph.jpg"); /* Looping back to the first image */
     background-size: cover;
   }
 }
@@ -146,17 +146,17 @@ nav ul li a:hover {
 }
 
 #card1 {
-  background-image: url("/SriLankaImg/srilankaUniversity.webp");
+  background-image: url("SriLankaImg/srilankaUniversity.webp");
   background-size: cover;
 }
 
 #card2 {
-  background-image: url("/SriLankaImg/srilankaMonument.jpg");
+  background-image: url("SriLankaImg/srilankaMonument.jpg");
   background-size: cover;
 }
 
 #card3 {
-  background-image: url("/SriLankaImg/srilankaFood.webp");
+  background-image: url("SriLankaImg/srilankaFood.webp");
   background-size: cover;
 }
 
